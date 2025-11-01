@@ -2,18 +2,6 @@
 
 A full-stack web application for managing a sweet shop with user authentication, inventory management, and role-based access control.
 
-## 📋 Table of Contents
-- [Features](#features)
-- [Technology Stack](#technology-stack)
-- [Prerequisites](#prerequisites)
-- [Installation & Setup](#installation--setup)
-- [Running the Application](#running-the-application)
-- [API Documentation](#api-documentation)
-- [Testing](#testing)
-- [My AI Usage](#my-ai-usage)
-- [Screenshots](#screenshots)
-- [Project Structure](#project-structure)
-- [Future Enhancements](#future-enhancements)
 
 ## ✨ Features
 
@@ -22,7 +10,6 @@ A full-stack web application for managing a sweet shop with user authentication,
 - 🍭 Browse all available sweets
 - 🔍 Search and filter sweets by name, category, and price range
 - 🛒 Purchase sweets (decreases inventory quantity)
-- 📱 Responsive design for all devices
 
 ### Admin Features
 - ➕ Add new sweets to inventory
@@ -298,12 +285,12 @@ Throughout this project, I extensively utilized **Claude AI (Anthropic)** as my 
 
 ### How I Used AI
 
-#### 1. **Project Architecture & Planning** (20% AI assistance)
-- **What I did**: Asked Claude to help design the overall project structure and technology stack selection
+#### 1. **Project Architecture & Planning** 
+- **What I did**: Asked Claude to help design the overall project structure 
 - **AI contribution**: Provided suggestions for folder structure, separation of concerns, and best practices for MERN stack applications
 - **My contribution**: Made final decisions based on project requirements and modified suggestions to fit specific needs
 
-#### 2. **Backend Development** (30% AI assistance)
+#### 2. **Backend Development** 
 - **What I did**: Used Claude to generate boilerplate code for Express routes, middleware, and MongoDB models
 - **AI contribution**: 
   - Generated initial User and Sweet model schemas with proper validation
@@ -344,7 +331,7 @@ feat: Implement Dashboard with search and filter
 Co-authored-by: Claude AI <claude@anthropic.com>
 ```
 
-#### 4. **Testing & Quality Assurance** (30% AI assistance)
+#### 4. **Testing & Quality Assurance** 
 - **What I did**: Asked Claude to help write unit tests and integration tests
 - **AI contribution**: 
   - Generated test cases for authentication endpoints
@@ -355,7 +342,7 @@ Co-authored-by: Claude AI <claude@anthropic.com>
   - Debugged failing tests and improved test coverage
   - Wrote custom test helpers for database seeding
 
-#### 5. **Documentation** (30% AI assistance)
+#### 5. **Documentation** 
 - **What I did**: Used Claude to draft README, API documentation, and code comments
 - **AI contribution**: 
   - Created comprehensive README structure
@@ -367,7 +354,7 @@ Co-authored-by: Claude AI <claude@anthropic.com>
   - Proofread and edited for clarity
   - Provided clear installation and setup instructions
 
-#### 6. **Debugging & Problem Solving** (40% AI assistance)
+#### 6. **Debugging & Problem Solving** 
 - **What I did**: Consulted Claude when encountering errors or bugs
 - **AI contribution**: 
   - Helped diagnose CORS issues between frontend and backend
@@ -402,12 +389,47 @@ Co-authored-by: Claude AI <claude@anthropic.com>
 #### My Approach:
 I treated Claude AI as a **senior developer mentor** who provides guidance, code reviews, and suggestions. I made all final decisions, understood every line of code before committing, and took responsibility for the final implementation.
 
-### AI Usage Percentage Breakdown:
-- **Code Generation**: 30%
-- **Problem Solving**: 40%
-- **Documentation**: 50%
-- **Testing**: 30%
-- **Overall Project**: ~45% AI assistance, 55% manual work
+
+
+📸 Screenshots
+1. Login Page
+   C:\Users\user\Desktop\Inquibity\Sweet Shop Management_System\screenshots\LoginPage.png
+2. SignUp Page
+   C:\Users\user\Desktop\Inquibity\Sweet Shop Management_System\screenshots\Register.png
+3.Dashboard
+  C:\Users\user\Desktop\Inquibity\Sweet Shop Management_System\screenshots\Dashboard (2).png
+4.Purchase Sweets
+  C:\Users\user\Desktop\Inquibity\Sweet Shop Management_System\screenshots\Purchase_sweets.png
+5.Search filter
+  C:\Users\user\Desktop\Inquibity\Sweet Shop Management_System\screenshots\Search_filter1.png
+  C:\Users\user\Desktop\Inquibity\Sweet Shop Management_System\screenshots\SearchByCategory.png
+  C:\Users\user\Desktop\Inquibity\Sweet Shop Management_System\screenshots\SearchByCategory(2).png
+  C:\Users\user\Desktop\Inquibity\Sweet Shop Management_System\screenshots\SearchByMaxPrice&MinPrice.png
+6. Clear_filter
+   C:\Users\user\Desktop\Inquibity\Sweet Shop Management_System\screenshots\ClearFilters.png
+
+ADMIN
+1. Admin Panel
+   C:\Users\user\Desktop\Inquibity\Sweet Shop Management_System\screenshots\AdminPanel (2).png
+2.Edit_Sweets
+   C:\Users\user\Desktop\Inquibity\Sweet Shop Management_System\screenshots\Edit_Sweets.png
+3.Add_Sweets
+   C:\Users\user\Desktop\Inquibity\Sweet Shop Management_System\screenshots\add_sweets.png
+4. Restock Sweets
+   C:\Users\user\Desktop\Inquibity\Sweet Shop Management_System\screenshots\Restock.png
+   C:\Users\user\Desktop\Inquibity\Sweet Shop Management_System\screenshots\Restocked_successfully.png
+   C:\Users\user\Desktop\Inquibity\Sweet Shop Management_System\screenshots\Restocked.png
+5. Delete_Operations
+   C:\Users\user\Desktop\Inquibity\Sweet Shop Management_System\screenshots\Restocked.png
+   C:\Users\user\Desktop\Inquibity\Sweet Shop Management_System\screenshots\purchaseSweets.png
+   C:\Users\user\Desktop\Inquibity\Sweet Shop Management_System\screenshots\Final.png
+   
+  
+  
+  
+  
+  
+   
 
 
 
@@ -475,13 +497,9 @@ sweet-shop-management/
 ## 👨‍💻 Developer
 
 **Your Name**
-- GitHub: [@pritha-012](https://github.com/pritha-012)
+- GitHub: https://github.com/pritha-012
 - Email: prithadas976@gmail.com
 
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
