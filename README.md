@@ -393,36 +393,38 @@ I treated Claude AI as a **senior developer mentor** who provides guidance, code
 
 📸 Screenshots
 1. Login Page
-   C:\Users\user\Desktop\Inquibity\Sweet Shop Management_System\screenshots\LoginPage.png
+   screenshots\LoginPage.png
 2. SignUp Page
-   C:\Users\user\Desktop\Inquibity\Sweet Shop Management_System\screenshots\Register.png
+   screenshots\Register.png
 3.Dashboard
-  C:\Users\user\Desktop\Inquibity\Sweet Shop Management_System\screenshots\Dashboard (2).png
+  screenshots\Dashboard (2).png
 4.Purchase Sweets
-  C:\Users\user\Desktop\Inquibity\Sweet Shop Management_System\screenshots\Purchase_sweets.png
+  screenshots\Purchase_sweets.png
+  screenshots\purchaseSweets.png
 5.Search filter
-  C:\Users\user\Desktop\Inquibity\Sweet Shop Management_System\screenshots\Search_filter1.png
-  C:\Users\user\Desktop\Inquibity\Sweet Shop Management_System\screenshots\SearchByCategory.png
-  C:\Users\user\Desktop\Inquibity\Sweet Shop Management_System\screenshots\SearchByCategory(2).png
-  C:\Users\user\Desktop\Inquibity\Sweet Shop Management_System\screenshots\SearchByMaxPrice&MinPrice.png
+ screenshots\Search_filter1.png
+ screenshots\SearchByCategory.png
+ screenshots\SearchByCategory(2).png
+
 6. Clear_filter
-   C:\Users\user\Desktop\Inquibity\Sweet Shop Management_System\screenshots\ClearFilters.png
+   screenshots\ClearFilters.png
 
 ADMIN
 1. Admin Panel
-   C:\Users\user\Desktop\Inquibity\Sweet Shop Management_System\screenshots\AdminPanel (2).png
+   screenshots\AdminPanel (2).png
 2.Edit_Sweets
-   C:\Users\user\Desktop\Inquibity\Sweet Shop Management_System\screenshots\Edit_Sweets.png
+   screenshots\Edit_Sweets.png
 3.Add_Sweets
-   C:\Users\user\Desktop\Inquibity\Sweet Shop Management_System\screenshots\add_sweets.png
+   screenshots\add_sweets.png
+   
 4. Restock Sweets
-   C:\Users\user\Desktop\Inquibity\Sweet Shop Management_System\screenshots\Restock.png
-   C:\Users\user\Desktop\Inquibity\Sweet Shop Management_System\screenshots\Restocked_successfully.png
-   C:\Users\user\Desktop\Inquibity\Sweet Shop Management_System\screenshots\Restocked.png
-5. Delete_Operations
-   C:\Users\user\Desktop\Inquibity\Sweet Shop Management_System\screenshots\Restocked.png
-   C:\Users\user\Desktop\Inquibity\Sweet Shop Management_System\screenshots\purchaseSweets.png
-   C:\Users\user\Desktop\Inquibity\Sweet Shop Management_System\screenshots\Final.png
+   screenshots\Restock.png
+   screenshots\Restocked_successfully.png
+   screenshots\Restocked.png
+6. Delete_Operations
+   screenshots\Delete_operations.png
+   screenshots\Deleted.png
+   screenshots\Final.png
    
   
   
